@@ -21,3 +21,26 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: bca60c2e-59bf-4182-9833-6a98cab2941c
+  title: Komputasi Aljabar Linear
+  description: Tugas Komputasi Aljabar Linear
+  keywords:
+    - jupyter-book
+    - komputasi-aljabar-linear
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: intro.md
+    - file: persamaan-linear.ipynb
+    - file: obe.ipynb
+    - file: tugas-persamaan-gausian.ipynb
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
