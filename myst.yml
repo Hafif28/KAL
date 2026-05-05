@@ -15,6 +15,7 @@ project:
     - file: persamaan-linear.ipynb
     - file: obe.ipynb
     - file: tugas-persamaan-gausian.ipynb
+    - file: Tugas-Evaluasi-Determinan-dan-Invers.ipynb
 site:
   template: book-theme
   # options:
