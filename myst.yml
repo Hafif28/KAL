@@ -17,6 +17,7 @@ project:
     - file: tugas-persamaan-gausian.ipynb
     - file: determinan-dan-invers.md
     - file: Tugas-Evaluasi-Determinan-dan-Invers.ipynb
+    - file: jawaban-determinan-dan-invers.md
     - file: Tugas.ipynb
 site:
   template: book-theme
